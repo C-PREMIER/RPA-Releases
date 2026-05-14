@@ -6,8 +6,7 @@
 
 | 版本 | 連結 |
 |---|---|
-| 最新版安裝檔 | [RPA_Setup_Latest.exe](https://github.com/C-PREMIER/RPA-Releases/releases/latest/download/RPA_Setup_Latest.exe) |
-| 完整版 zip | [RPA_Latest_Full.zip](https://github.com/C-PREMIER/RPA-Releases/releases/latest/download/RPA_Latest_Full.zip) |
+| 最新版安裝檔 | [RPA_Setup.exe](https://github.com/C-PREMIER/RPA-Releases/releases/latest/download/RPA_Setup.exe) |
 
 ## 系統需求
 
